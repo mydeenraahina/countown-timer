@@ -40,6 +40,7 @@ def main():
     else:
         print(f"please check your input!")
         main()
+if __name__="__main__":
 main()
        
     
